@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import LandingPage from "./components/Landingpage";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
