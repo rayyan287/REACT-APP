@@ -1,9 +1,7 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
-import LandingPage from "./component/landingpage";
-import Footer from "./component/footer"; 
+import LandingPage from "./components/LandingPage";
+import Footer from "./components/Footer";
 
 function App() {
   return (
